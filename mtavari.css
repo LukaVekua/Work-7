@@ -1,0 +1,224 @@
+.container {
+    width: 1500px;
+    height: 1500px;
+    overflow: visible;
+    border: 2px solid black;
+    position: relative;
+    left: 50px;
+}
+
+.satauri {
+    width: 1500px;
+    height: 150px;
+    background-color: #333534;
+    border-bottom: 4px solid #8ca848;
+}
+
+.txt1 {
+    font-size: 30px;
+    color: #c8c902;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+
+.txt2 {
+    color: grey;
+    font-size: 15px;
+}
+
+.suratis-mdebareoba {
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
+.txt-mdebareoba {
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
+.siaxleebi {
+    width: 200px;
+    height: 250px;
+    border: solid 1px black;
+    position: relative;
+    left: 1000px;
+    bottom: 300px;
+    border-radius: 20px;
+}
+
+.txt3 {
+    color: #0792aa;
+    font-weight: bold;
+}
+
+.txt4 {
+    font-size: 12px;
+    color: grey;
+}
+
+.txt5 {
+    color: #b2b460;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.menu1 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 790px;
+    left: 600px;
+    background-color: #bae361;
+    text-align: center;
+}
+
+.txt6 {
+    position: relative;
+    top: 8px;
+    color: white;
+}
+
+.menu2 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 830px;
+    left: 755px;
+    background-color: grey;
+    text-align: center;
+
+
+}
+
+.menu3 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 870px;
+    left: 910px;
+    background-color: grey;
+    text-align: center;
+
+
+}
+
+.menu4 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 910px;
+    left: 1065px;
+    background-color: grey;
+    text-align: center;
+
+}
+
+.menu5 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 950px;
+    left: 1220px;
+    background-color: grey;
+    text-align: center;
+
+
+}
+
+
+.siaxleebi2 {
+    width: 200px;
+    height: 250px;
+    border: solid 1px black;
+    position: relative;
+    left: 1000px;
+    bottom: 470px;
+    border-radius: 20px;
+}
+
+.siaxleebi3 {
+    width: 200px;
+    height: 150px;
+    border: solid 1px black;
+    position: relative;
+    left: 1000px;
+    bottom: 450px;
+    border-radius: 20px;
+
+}
+
+.txt7 {
+    position: relative;
+    left: 30px;
+    top: 20px;
+    font-size: 25px;
+}
+
+.Lorem-ipsum2 {
+    position: relative;
+    left: 500px;
+    bottom: 830px;
+}
+
+.txt8 {
+    color: #b2b460;
+    font-weight: bold;
+}
+
+.txt9 {
+    color: #0792aa;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.chamonatvali {
+    position: relative;
+    right: 23px;
+}
+
+.dasasruli {
+    width: 1500px;
+    height: 150px;
+    background-color: #333534;
+    position: relative;
+    bottom: 690px;
+    border-top: 4px solid #8ca848;
+}
+
+.txt10 {
+    position: relative;
+    left: 550px;
+    top: 50px;
+    color: #8ca848;
+}
+
+.txt11 {
+    position: relative;
+    left: 600px;
+    top: 70px;
+    color: #8ca848;
+}
+
+
+.search-box {
+    width: 130px;
+    height: 20px;
+    border: solid 1px black;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    color: grey;
+}

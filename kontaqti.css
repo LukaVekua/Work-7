@@ -1,0 +1,257 @@
+.container {
+    width: 1500px;
+    height: 1280px;
+    overflow: visible;
+    border: 2px solid black;
+    position: relative;
+    left: 50px;
+}
+
+.satauri {
+    width: 1500px;
+    height: 150px;
+    background-color: #333534;
+    border-bottom: 4px solid #8ca848;
+}
+
+.txt1 {
+    font-size: 30px;
+    color: #c8c902;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+
+.txt2 {
+    color: grey;
+    font-size: 15px;
+}
+
+
+
+.siaxleebi {
+    width: 200px;
+    height: 250px;
+    border: solid 1px black;
+    position: relative;
+    left: 1000px;
+    top: 30px;
+    border-radius: 20px;
+}
+
+.txt3 {
+    color: #0792aa;
+    font-weight: bold;
+}
+
+.txt4 {
+    font-size: 12px;
+    color: grey;
+}
+
+.txt5 {
+    color: #b2b460;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.menu1 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 296px;
+    left: 600px;
+    background-color: grey;
+    text-align: center;
+}
+
+.txt6 {
+    position: relative;
+    top: 8px;
+    color: white;
+}
+
+.menu2 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 336px;
+    left: 755px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.menu3 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 376px;
+    left: 910px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.menu4 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 416px;
+    left: 1065px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.menu5 {
+    width: 150px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    bottom: 456px;
+    left: 1220px;
+    background-color: #bae361;
+    color: white;
+    text-align: center;
+}
+
+.siaxleebi2 {
+    width: 200px;
+    height: 250px;
+    border: solid 1px black;
+    border-radius: 20px;
+}
+
+.siaxleebi3 {
+    width: 200px;
+    height: 150px;
+    border: solid 1px black;
+    border-radius: 20px;
+
+}
+
+.txt7 {
+    position: relative;
+    left: 30px;
+    top: 20px;
+    font-size: 25px;
+}
+
+.txt8 {
+    color: #b2b460;
+    font-weight: bold;
+}
+
+.txt9 {
+    color: #0792aa;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.chamonatvali {
+    position: relative;
+    right: 23px;
+}
+
+.dasasruli {
+    width: 1500px;
+    height: 150px;
+    background-color: #333534;
+    position: relative;
+    bottom: 313px;
+    border-top: 4px solid #8ca848;
+}
+
+.txt10 {
+    position: relative;
+    left: 550px;
+    top: 50px;
+    color: #8ca848;
+}
+
+.txt11 {
+    position: relative;
+    left: 600px;
+    top: 70px;
+    color: #8ca848;
+}
+
+.txt12 {
+    position: relative;
+    left: 300px;
+    bottom: 450px;
+}
+
+.txt13 {
+    color: #0792aa;
+}
+
+.txt-placement {
+    position: relative;
+    left: 350px;
+    bottom: 400px;
+}
+
+.window-1 {
+    width: 400px;
+    height: 50px;
+    border: solid 1px black;
+    position: relative;
+    bottom: 420px;
+    left: 150px;
+}
+
+.window-2 {
+    width: 400px;
+    height: 50px;
+    border: solid 1px black;
+    position: relative;
+    bottom: 415px;
+    left: 150px;
+}
+
+.window-3 {
+    width: 400px;
+    height: 150px;
+    border: solid 1px black;
+    position: relative;
+    bottom: 410px;
+    left: 150px;
+}
+
+.window-4 {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 380px;
+    left: 450px;
+    background-color: #333534;
+    color: white;
+    text-align: center;
+}
+
+.txt14 {
+    position: relative;
+    top: 10px;
+}
+
+.search-box {
+    width: 130px;
+    height: 20px;
+    border: solid 1px black;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    color: grey;
+}

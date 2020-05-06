@@ -1,0 +1,64 @@
+body{
+    margin: 0; 
+  }
+  
+  header, .content, footer{
+     width: 1090px;
+     border: solid 1px black;
+     margin: auto;
+     box-sizing: border-box;
+  }
+  
+  header{
+     height: 120px;
+     background-color: cadetblue;
+     margin-bottom: 10px;
+  }
+  
+  .content{
+     min-height: 420px;
+     background-color: cornsilk;
+     margin-bottom: 10px;
+     overflow: hidden;
+  }
+  
+  footer{
+     height: 50px;
+     background-color: cadetblue;
+  }
+  
+  nav{
+     width: 200px;
+     min-height: 100px;
+     background-color: darkgray;
+     float: left;
+  }
+  
+  .posts{
+     min-height: 420px;
+     width: 888px;
+     border-left: solid 2px black;
+     background-color: darkseagreen;
+     float: left;
+     box-sizing: border-box;
+  }
+  
+  .row{
+     min-height: 130px;
+     width: 888px;
+     box-sizing: border-box;
+     background-color: brown;
+     margin-bottom: 10px;
+     overflow: hidden;
+  }
+  
+  .post{
+     min-height: 130px;
+     width: 424px;
+     border: solid 1px black;
+     box-sizing: border-box;
+     background-color:chartreuse;
+     margin: 10px;
+     float: left;
+  }
+
